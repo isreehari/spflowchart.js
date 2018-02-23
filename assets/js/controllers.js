@@ -2,7 +2,7 @@
     'use strict';
 
 function flowchartController($scope){
-    alert("Hi");
+    //alert("Hi");
 }
 
 
