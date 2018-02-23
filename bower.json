@@ -1,0 +1,31 @@
+{
+  "name": "SPFlowChart",
+  "homepage": "https://github.com/isreehari/spflowchart.js",
+  "authors": [
+    "isreehari <isreehari@hotmail.com>"
+  ],
+  "description": "SPFlowchart will help the users to draw flow charts with drag and drop",
+  "main": "index.html",
+  "keywords": [
+    "FlowChart",
+    "Flowchart",
+    "JavaScript",
+    "Flowchart",
+    "Angular",
+    "Flowchart",
+    "D3"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.9",
+    "bootstrap": "3.3.7"
+  }
+}
